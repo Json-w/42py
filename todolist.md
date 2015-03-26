@@ -65,19 +65,26 @@
 #6 sanyue3always:三月之望
 
 
+
+
+
+
+
+
+
 ## Week 1
 
 完成情况                        | csufuyi  | duanxinxing | xiulizhuang | leokaikai | 42wolf | sanyue3always
                                :-----:|:-----:|:-----:|:-----:|:----:|:-----:|:-----:|:------:
-注册网易云课堂                   | []       | [X]         | [X]         | [x]       | [ ]            | [x] 
-GitHub初始化                    | [x]      | [ ]       | [X]           | [X]       | [x]            | [ ]        
-GitHub与GitBook链接 + 发布图书   | [x]      | [ ]       | [x]            | [X]       | [x]            | [ ]            
-say “Hello World”              | [x]      | [x]       | [X]           | [x]        | [ ]            | [x] 
-GitBook: markdown 教程         | [x]       | []        | [ ]           | [ ]        | [ ]            | [ ] 
-mailling-list 教程             | [ ]       | [ ]       | [ ]            | [ ]       | [ ]            | [ ] 
-开学大典心得                     | [ ]       | [x]       | [X]           | [ ]        | [ ]            | [ ] 
-GitBook: GitHub教程            | [ ]       | [ ]        | [X]           | [ ]        | [ ]            | [ ] 
-GitBook: GitBook 教程          | [ ]       | [x]        | [ ]           | [ ]        | [ ]            | [ ] 
+注册网易云课堂                   | []       | [X]         | [X]         | [x]       | [√]            | [x] 
+GitHub初始化                    | [x]      | [ ]       | [X]           | [X]       | [√]            | [ ]        
+GitHub与GitBook链接 + 发布图书   | [x]      | [ ]       | [x]            | [X]       | [√]            | [ ]            
+say “Hello World”              | [x]      | [x]       | [X]           | [x]        | [x]            | [x] 
+GitBook: markdown 教程         | [x]       | []        | [ ]           | [ ]        | [√]            | [ ] 
+mailling-list 教程             | [ ]       | [ ]       | [ ]            | [ ]       | [x]            | [ ] 
+开学大典心得                     | [ ]       | [x]       | [X]           | [ ]        | [x]            | [ ] 
+GitBook: GitHub教程            | [ ]       | [ ]        | [X]           | [ ]        | [√]            | [ ] 
+GitBook: GitBook 教程          | [ ]       | [x]        | [ ]           | [ ]        | [x]            | [ ] 
 
 
 ## Week 2
@@ -85,7 +92,7 @@ GitBook: GitBook 教程          | [ ]       | [x]        | [ ]           | [ ] 
 
 完成情况                        | csufuyi  | duanxinxing | xiulizhuang | leokaikai | 42wolf | sanyue3always
         :-----:|:-----:|:-----:|:-----:|:----:|:-----:|:-----:|:------:
-注册 Coursera                  | [x]      | []          | [x]           | [x]      | [x]            | []    
-注册 课程（part 2）             | [x]      | []           | [x]           | [x]      | [x]            | []        
-注册 课程（part 1）             | [x]      | []           | [x]           | [x]      | [x]            | []        
+注册 Coursera                  | [x]      | []          | [x]           | [x]      | [√]            | []    
+注册 课程（part 2）             | [x]      | []           | [x]           | [x]      | [√]            | []        
+注册 课程（part 1）             | [x]      | []           | [x]           | [x]      | [√]            | []        
 完成作业                       | [x]      | []            | [x]            | []      | [x]            | []        
